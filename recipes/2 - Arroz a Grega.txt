@@ -1,0 +1,5 @@
+1 - arroz
+2 - cenoura
+3 - cebola
+4 - pimentão
+5 - alho

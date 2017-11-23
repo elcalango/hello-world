@@ -1,0 +1,5 @@
+1 - camarão
+2 - Abóbora
+3 - cebola
+4 - tomate
+5 - alho
