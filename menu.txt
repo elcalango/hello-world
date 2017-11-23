@@ -2,7 +2,6 @@
 2 - Arroz a grega
 3 - cuscuz marroquino
 4 - Feijão tropero
-5 - Macarronada de atum
-6 - Macarronada de atum (sem receita)
-7 - Bolo de chocolate (sem arq receita)
-8 - Pão com Ovo
+5 - Macarronada de atum 
+6 - Bolo de chocolate 
+7 - Pão com Ovo

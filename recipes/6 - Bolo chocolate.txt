@@ -1,0 +1,6 @@
+﻿1 - farinha
+2 - ovo
+3 - mantega
+4 - açucar
+5 - fermento
+6 - chocolate
